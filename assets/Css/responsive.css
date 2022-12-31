@@ -1,0 +1,140 @@
+@media (min-width: 320px) and (max-width: 767px){
+
+    .slider-content p {
+        color: #fff;
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .slider-content h1 {
+        color: #fff;
+        font-weight: 700;
+        font-size: 3rem;
+    }
+    .slider-content h5 {
+        font-weight: 700;
+        color: #DA9F5B;
+        font-size: 25px;
+    }
+    .banner-slider .item {
+        padding-top: 135px;
+        padding-bottom: 135px;
+        margin-bottom: 20px;
+    }
+    .section-title h5::before {
+        width: 2px;
+        height: 80px;
+        top: -100px;
+    }
+    .section-title h5 {
+        letter-spacing: 2px;
+        font-size: 20px;
+    }
+    .section-title h2 {
+        font-size: 1.5rem;
+    }
+    .about-coffe h2 {
+        font-size: 30px;
+    }
+    .about-coffe p {
+        font-size: 18px;
+    }
+    p.lettel {
+        font-size: 15px;
+    }
+    .coffe-text {
+        position: static;
+    }
+    img.coffe-img {
+        max-width: 100%;
+    }
+    h5.b-text {
+        padding: 8px 8px 8px 8px;
+        position: absolute;
+        top: -10px;
+        left: 52%;
+    }
+    img.br-img {
+        max-width: 35%;
+    }
+    .balck-coffe {
+        position: static;
+        margin: auto;
+    }
+    .input-group {
+        width: 100%;
+        margin: auto;
+    }
+    .off-area {
+    margin-left: -60px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    }
+    .banner-about-text h2 {
+        font-size: 35px;
+        margin-top: 30px;
+    }
+
+    
+    .off-area h4 {
+        font-size: 24px;
+    }
+    .off-area h2 {
+        font-size: 64px;
+    }
+    .off-area p {
+        font-size: 16px;
+    }
+    li.box-i {
+        margin-left: 34px;
+    }
+    li.box-ii{
+        margin-left: 34px;
+    }
+    li.box-iii{
+        margin-left: 34px;
+    }
+    .about-img {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .coffe-text h5 {
+        font-weight: 600;
+        font-size: 22px;
+    }
+    .coffe-text i {
+        padding: 10px 10px 10px 10px;
+        font-size: 22px;
+        margin-top: 10px;
+    }
+    .offer-text h1 {
+        font-size: 64px;
+    }
+    .offer-text h2 {
+        font-size: 38px;
+    }
+    .offer-text p {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .pricing-section {
+        text-align: center;
+    }
+    .ptb-100 {
+        padding-bottom: 40px;
+    }
+    .fotter-text h4 {
+        margin-top: 20px;
+    }
+    .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+        background: #33211D;
+    }
+    li.nav-item {
+        background: #333;
+    }
+    .banner-about {
+        padding-top: 90px;
+        padding-bottom: 50px;
+        margin-bottom: 40px;
+    }
+    
+}
